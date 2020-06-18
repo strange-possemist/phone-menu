@@ -1,0 +1,226 @@
+body {
+  background: #D2D6DC;
+}
+.div {
+  position: relative;
+  width: 270px;
+  height: 630px;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  margin: auto;
+  top: 160px;
+  box-shadow: 0 20px 50px #b7babe;
+  font-family:'Roboto', sans-serif;
+}
+.dashboard {
+  position: relative;
+  color: #303745;
+  padding: auto;
+}
+.dashboard_div {
+  position: relative;
+  height: 40px;
+  width: 94%;
+  margin-left: 3%;
+  border-radius: 5px;
+  top: 7px;
+  justify-content: center;
+  background-color: #F4F5F7;
+}
+.dashboard_icon {
+  position: relative;
+  top: 7px;
+  left: 7px;
+
+
+}
+.dashboard_text {
+  position: relative;
+  top: -15px;
+  font-size: 14px;
+  left: 43px;
+  color: #666E7A;
+  font-weight: 700;
+}
+
+
+
+
+
+.team_text {
+  position: absolute;
+  color: #8E959D;
+  top: 64px;
+  left: 51px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.team_icon {
+  position: absolute;
+  top: 60px;
+  left: 11px;
+  width: 30px;
+  height: 25px;
+  color: #666E7A;
+
+}
+.calendar_text {
+  position: absolute;
+  color: #8E959D;
+  top: 107px;
+  left: 51px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.calendar_icon {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  color: #666E7A;
+
+}
+.message_calendar {
+  position: absolute;
+  left: 230px;
+  top: 111px;
+  color: #666E7A;
+  font-weight: 700;
+  background-color: #F4F5F7;
+  background-size: 100px 100px;
+  border-radius: 50%;
+  font-size: 14px;
+}
+
+
+.documents_text {
+  position: absolute;
+  color: #8E959D;
+  top: 150px;
+  left: 51px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.documents_icon {
+  position: absolute;
+  top: 145px;
+  left: 13.5px;
+  width: 27px;
+  height: 30px;
+  color: #666E7A;
+
+}
+.message_documents {
+  position: absolute;
+  left: 230px;
+  top: 153px;
+  color: #666E7A;
+  font-weight: 700;
+  background-color: #F4F5F7;
+  background-size: 100px 100px;
+  border-radius: 50%;
+  font-size: 14px;
+}
+.reports_text {
+  position: absolute;
+  color: #8E959D;
+  top: 193px;
+  left: 51px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.reports_icon {
+  position: absolute;
+  top: 188px;
+  left: 13.5px;
+  width: 27px;
+  height: 30px;
+  color: #666E7A;
+}
+
+
+/*Projects*/
+
+.projects {
+  position: absolute;
+  color: #B7BAC1;
+  top: 250px;
+  left: 20px;
+  font-weight: 700;
+  font-size: 13px;
+}
+.website_redesign {
+  position: absolute;
+  color: #8E959D;
+  top: 280px;
+  left: 20px;
+  font-weight: 700;
+  font-size: 14px;
+}
+.graphql_api {
+  position: absolute;
+  color: #8E959D;
+  top: 310px;
+  left: 20px;
+  font-weight: 700;
+  font-size: 14px;
+}
+.customer_migration_guides {
+  position: absolute;
+  color: #8E959D;
+  top: 340px;
+  left: 20px;
+  font-weight: 700;
+  font-size: 14px;
+}
+.profit_sharing_program {
+  position: absolute;
+  color: #8E959D;
+  top: 370px;
+  left: 20px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+
+
+
+
+/*   -> Account <-    */
+.account_icon {
+  position: absolute;
+  top: 580px;
+  left: 18px;
+  width: 31px;
+  height: 30px;
+  color: #666E7A;
+  
+}
+.account_name {
+  position: absolute;
+  color: #666B75;
+  top: 580px;
+  left: 60px;
+  font-weight: 700;
+  font-size: 14px;
+}
+.view_profile {
+  position: absolute;
+  color: #8E959D;
+  top: 603px;
+  left: 60px;
+  font-weight: 700;
+  font-size: 12px;
+}
+.icon_settings_account {
+  position: absolute;
+  top: 589px;
+  left: 233px;
+  width: 20px;
+  height: 20px;
+}
